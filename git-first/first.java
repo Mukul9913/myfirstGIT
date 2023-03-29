@@ -1,7 +1,7 @@
 class test {
     public static void main(String args[]) {
-        System.out.println("HELLO aASTHA");
-        System.out.println("HELLO MUKUL");
-        System.out.println("HELLO GIT");
+        System.out.println("HELLO friends");
+        System.out.println("HELLO chai pilo");
+        System.out.println("HELLO garam hai");
     }
 }
