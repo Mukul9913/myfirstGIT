@@ -3,5 +3,6 @@ class test {
         System.out.println("HELLO friends");
         System.out.println("HELLO chai pilo");
         System.out.println("HELLO garam hai");
+        System.out.println("HELLO thandi ho gyi");
     }
 }
